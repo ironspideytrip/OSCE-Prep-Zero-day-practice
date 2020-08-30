@@ -1,0 +1,6 @@
+s_string("USER ");
+s_string_variable("anonymous");
+s_string("\r\n");
+s_string("PASS ");
+s_string("anonymous");
+s_string("\r\n");
